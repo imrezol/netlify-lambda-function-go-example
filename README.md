@@ -1,0 +1,1 @@
+# netlify-lambda-function-go-example
